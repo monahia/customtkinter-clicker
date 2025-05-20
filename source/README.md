@@ -1,11 +1,6 @@
 # Customtkinter UI clicker 
 
 ### Start application
-- Install git and python (for debian linux)
-``` bash
-sudo apt-get install python
-sudo apt-get install git 
-```
 
 - Clone repository
 ``` bash
